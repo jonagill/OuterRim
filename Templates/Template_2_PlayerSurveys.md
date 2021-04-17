@@ -1,9 +1,9 @@
 # Player survey template
 ### Email this to players who have signed up to request that they fill out their character survey
 
-Welcome to The Great Northwest Baking Show!
+Welcome to The Outer Rim!
  
-You've probably all heard already, but we are going to be playing in a custom Bake Off-themed murder mystery adventure on **[date]**!
+You've probably all heard already, but we are going to be playing in a custom Star Fights-themed murder mystery adventure on **[date]**!
  
 **What is this?**   
  
@@ -37,7 +37,7 @@ Oh, and while it is not required, dressing up as your character is highly encour
  
 This is a murder mystery story, and thus will include themes of murder and death, including textual descriptions of dead bodies and blood.  There will be no detailed descriptions of wounds or gore. There will be no violent images or video.
  
-However, there will also be additional themes of **substance abuse**, **infidelity**, and **suicidal ideation**. These are not core elements of the story, but may inform details about certain characters. Please let me know if you have any concerns here and we will confidentially make arrangements as necessary to ensure your comfort.
- 
+There are no additional content warnings for this adventure. However, if you have any concerns about encountering content that may be triggering, please let me know and I am happy to confidentially make arrangements as necessary to ensure your comfort.
+
  
 Whew!  That's a lot of stuff.  Let me know if you have any questions!
