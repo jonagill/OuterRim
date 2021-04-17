@@ -117,7 +117,7 @@ Before you can play, you must customize the Twine project so that your players c
 
 If you have not downloaded Twine before, you should install it from [Twinery.org](https://twinery.org/). Make sure you have version 2.3.9 or later -- previous versions have a bug with the Chapbook story format that will prevent the game from running correctly.
 
-Next, download the Outer Rim Twine project by right-clicking [this link](https://raw.githubusercontent.com/jonagill/OuterRim/main/Twine/The%20Outer%20Rim.html), hitting Save As, and downloading it to your Twine stories directory (Documents/Twine/Stories on both PC and Mac).
+Next, download the Outer Rim Twine project by right-clicking [this link](https://github.com/jonagill/OuterRim/raw/main/Twine/The%20Outer%20Rim.html), hitting Save As, and downloading it to your Twine stories directory (Documents/Twine/Stories on both PC and Mac).
 
 
 <img src="https://github.com/jonagill/OuterRim/raw/main/Images/TwineProject.PNG" height="280">
