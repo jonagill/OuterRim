@@ -1,7 +1,7 @@
 <img src="https://github.com/jonagill/OuterRim/raw/main/Images/Banner.jpg" height="320">
 
 # The Outer Rim
-### A socially-distanced murder mystery based on a certain sci-fi franchise and a particular theme park 
+### A socially-distanced murder mystery in theme park far, far away 
 
 > Welcome to the Outer Rim!
 >
