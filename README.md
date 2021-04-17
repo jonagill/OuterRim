@@ -122,9 +122,9 @@ Next, download the Outer Rim Twine project by right-clicking [this link](https:/
 
 <img src="https://github.com/jonagill/OuterRim/raw/main/Images/TwineProject.PNG" height="280">
 
-Open Twine and select the Outeer Rim project.
+Open Twine and select the Outer Rim project.
 
-<img src="https://raw.githubusercontent.com/jonagill/OuterRim/main/Images/SetupNode.PNG" height="280">
+<img src="https://github.com/jonagill/OuterRim/raw/main/Images/SetupNode.PNG" height="280">
 
 Double-click the node labeled Setup to open the script editor.
 
