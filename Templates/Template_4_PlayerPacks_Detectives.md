@@ -7,7 +7,7 @@ Attached is a document containing the rules of the game and the background infor
 
 Additionally, I have attached a second document containing a map of the crime scene and a notes page for tracking information about your fellow suspects. I recommend printing this document off as well so that you can take notes on it throughout your investigation.
 
-To help set the scene, is the full list of characters we will meet on **[game day]**:
+To help set the scene, here is the full list of characters we will meet on **[game day]**:
 * **[Bulleted list of players in Role Name + First Name format]**
 
 Let me know if you have any questions!
