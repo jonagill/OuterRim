@@ -2,7 +2,7 @@
 
 Below are links to the full character packets for each player, which contain the full rules of the game along with all the details of their character's backstory, secrets, and alibis.
 
-Make sure that you only share each of packet with the player who will be playing that character!
+Make sure that you only share each packet with the player who will be playing that character!
 
 * [The Actor](https://docs.google.com/document/d/1OV1JyOIYj4Y2YmPNuCav9uTee32lELagOhBccXvYeRA/edit)
 * [The Bartender](https://docs.google.com/document/d/14TNnpVrQhCWVyXwpcA7b24dNdC8ueAjNHeHrLa1ZxZA/edit)
