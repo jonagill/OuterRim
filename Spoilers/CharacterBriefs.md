@@ -60,7 +60,7 @@ The Actor's big break came when Richard was made shift supervisor of The Outer R
 #### Lying: 2/3 
 #### Content warnings: None
 
-The Bartender works at Lolo's Cantina, where they dress up as a famous smuggler and mix brightly colored cocktails for guests all day. It's a hectic job, made all the more hectic by the "secret menu" they cooked up with Richard. The "secret menu" is simple -- The Bartender procures and sells drugs to park guests, the Richard makes sure that park management doesn't catch on. Together they split the profits, and the Bartender gets to walk away with a nice bonus over the paltry salary that Dizzyland offers them.
+The Bartender works at Lolo's Cantina, where they dress up as a famous smuggler and mix brightly colored cocktails for guests all day. It's a hectic job, made all the more hectic by the "secret menu" they cooked up with Richard. The "secret menu" is simple -- The Bartender procures and sells drugs to park guests, while Richard makes sure that park management doesn't catch on. Together they split the profits, and the Bartender gets to walk away with a nice bonus over the paltry salary that Dizzyland offers them.
 
 Little does the Bartender know that park security is beginning to catch onto their arrangement, and that Richard plans to throw them under the bus the moment things start to get hairy.
 
