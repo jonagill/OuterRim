@@ -221,7 +221,7 @@ Post the [invite code](https://github.com/jonagill/OuterRim/blob/main/Spoilers/I
 
 The presentation of round 2's findings runs just like it did for round 1, but you should try to change up the order in which players present. For instance, if you had players present from top-to-bottom in round 1, try having them present from bottom-to-top in round 2.
 
-### Final round of crime scene investigation (~25 minutes)
+### Final round of crime scene investigation (~30 minutes)
 
 Once more, make sure to ask your players if they need a 5 minute break before beginning the final round.
 
